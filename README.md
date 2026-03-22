@@ -1,6 +1,6 @@
 # Personal-Voice-Assistant
 
-# Personal Voice Assistant
+
 
 Python voice assistant with text-to-speech. Type commands, hear voice responses.
 
@@ -36,9 +36,11 @@ exit	Close assistant
 ## Example
 
 You: time
+
 Assistant: The time is 02:30 PM
 
 You: joke  
+
 Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
 ## Dependencies
 pywin32 - Windows Text-to-Speech
@@ -46,6 +48,4 @@ pywin32 - Windows Text-to-Speech
 
 
 
-SyntecxHub
 
-text
